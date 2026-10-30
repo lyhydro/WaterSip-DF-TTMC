@@ -1,0 +1,9 @@
+__pycache__/
+*.nc
+partposit_file/
+P_E_observation/
+shp/
+DF/
+temporary/
+output/
+P_E_simulation/
